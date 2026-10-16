@@ -1,0 +1,9 @@
+streamlit
+llama-index-core
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+langchain-core
+langchain-community
+langchain-ollama
+rank_bm25
+sentence-transformers

@@ -1,0 +1,107 @@
+{
+  "hr_leave_policy_2023.txt": {
+    "department": "HR",
+    "doc_type": "policy",
+    "year": 2023
+  },
+  "hr_leave_policy_2024.txt": {
+    "department": "HR",
+    "doc_type": "policy",
+    "year": 2024
+  },
+  "hr_remote_work_policy_2025.txt": {
+    "department": "HR",
+    "doc_type": "policy",
+    "year": 2025
+  },
+  "finance_q3_report_2024.txt": {
+    "department": "Finance",
+    "doc_type": "report",
+    "year": 2024
+  },
+  "finance_expense_policy_2025.txt": {
+    "department": "Finance",
+    "doc_type": "policy",
+    "year": 2025
+  },
+  "eng_incident_runbook_2024.txt": {
+    "department": "Engineering",
+    "doc_type": "runbook",
+    "year": 2024
+  },
+  "eng_deployment_guide_2025.txt": {
+    "department": "Engineering",
+    "doc_type": "runbook",
+    "year": 2025
+  },
+  "eng_architecture_overview_2024.txt": {
+    "department": "Engineering",
+    "doc_type": "report",
+    "year": 2024
+  },
+  "legal_data_privacy_policy_2025.txt": {
+    "department": "Legal",
+    "doc_type": "policy",
+    "year": 2025
+  },
+  "support_faq_2025.txt": {
+    "department": "Support",
+    "doc_type": "faq",
+    "year": 2025
+  },
+  "hr_leave_faq_2025.txt": {
+    "department": "HR",
+    "doc_type": "faq",
+    "year": 2025
+  },
+  "hr_holiday_calendar_2025.txt": {
+    "department": "HR",
+    "doc_type": "calendar",
+    "year": 2025
+  },
+  "hr_onboarding_guide_2024.txt": {
+    "department": "HR",
+    "doc_type": "guide",
+    "year": 2024
+  },
+  "finance_expense_policy_2023.txt": {
+    "department": "Finance",
+    "doc_type": "policy",
+    "year": 2023
+  },
+  "finance_procurement_policy_2024.txt": {
+    "department": "Finance",
+    "doc_type": "policy",
+    "year": 2024
+  },
+  "finance_refund_policy_2024.txt": {
+    "department": "Finance",
+    "doc_type": "policy",
+    "year": 2024
+  },
+  "support_error_codes_customer_2024.txt": {
+    "department": "Support",
+    "doc_type": "reference",
+    "year": 2024
+  },
+  "eng_incident_runbook_2023.txt": {
+    "department": "Engineering",
+    "doc_type": "runbook",
+    "year": 2023
+  },
+  "legal_vendor_contract_guidelines_2024.txt": {
+    "department": "Legal",
+    "doc_type": "policy",
+    "year": 2024
+  },
+  "eng_error_catalog_2023.txt": {
+    "department": "Engineering",
+    "doc_type": "report",
+    "year": 2023
+  },
+  "finance_vendor_payments_2024.txt": {
+    "department": "Finance",
+    "doc_type": "policy",
+    "year": 2024
+  }
+}
